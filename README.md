@@ -82,8 +82,13 @@ markdown的书写，比较起HTML是非常便利的，但并不是简单易行�
 
 ```js
 AMD.make('#amd-editor', {
-    imgAction: '/image',
-    pubAction: '/',
+    amdBack: '/',
+    amdPubMethod: 'post',
+    amdPubAction: '/',
+    amdSaveAction: '/',
+    amdUploadImgAction: '/image',
+    amdInitText: '',
+    amdInitTitle: '',
     titleName: 'title',
     textName: 'text'
 });
@@ -99,8 +104,8 @@ AMD.make('#amd-editor', {
 
 ###AMD.make构造器参数
 
- * imgAction  上传图片的服务器路径
- * pubAction  发布按钮点击，文章内容提交的服务器路径
+ * amdUploadImgAction  上传图片的服务器路径
+ * amdPubAction  发布按钮点击，文章内容提交的服务器路径
  * titleName  发布标题name值
  * textName  发布内容name值
 
