@@ -60,9 +60,10 @@ markdown的书写，比较起HTML是非常便利的，但并不是简单易行�
 
 ```js
 <link type="text/css" rel="stylesheet" href="css/font-awesome/css/font-awesome.css"/>
-<link type="text/css" rel="stylesheet" href="css/amd.css"/>
 <link type="text/css" rel="stylesheet" href="css/codemirror.css"/>
 <link type="text/css" rel="stylesheet" href="css/highlight/xcode.css"/>
+<link type="text/css" rel="stylesheet" href="css/amd.css"/>
+<link type="text/css" rel="stylesheet" href="css/markdown.css"/>
 ```
 
 **导入js文件**
