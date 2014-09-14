@@ -2,7 +2,7 @@
 
 WYSIWYG
 
-[DEMO](http://114.215.131.219/)
+[DEMO] // 已下线
 
 author: tulayang<br />
 email: itulayangi@gmail.com iwangtongi@163.com
