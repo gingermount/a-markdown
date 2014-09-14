@@ -9,7 +9,7 @@ email: itulayangi@gmail.com iwangtongi@163.com
 
 markdown的书写，比较起HTML是非常便利的，但并不是简单易行的。想要书写一套规则的文本，需要具备一定的markdown语法知识。**a markdown editor**希望提供部分的可控元素，在使用者熟悉语法之前，能够顺利的操作markdown文本。
 
-*demo网站是托管在阿里云nodejs服务器，可使用容量很低，所以图片上传锁定了固定图片，无论你输入那个图片都是同一个图片。 [see DEMO](http://114.215.131.219/)*
+*demo网站是托管在阿里云nodejs服务器，可使用容量很低，所以图片上传锁定了固定图片，无论你输入那个图片都是同一个图片。 [see DEMO]// 已下线*
 
 ###预览
 
@@ -113,4 +113,4 @@ AMD.make('#amd-editor', {
 到目前为止，**a markdown editor**的收尾做的有些仓促。未来还打算增加**mini版本的css**，编辑和预览放入一个控件位置以及增加前端图片格式预判断等。 
 还未制作的完毕的部分：上传图片URL直接输入，未来更新。
 
-*[see DEMO](http://114.215.131.219/)*
+*[see DEMO]// 已下线*
