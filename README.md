@@ -2,6 +2,8 @@
 
 WYSIWYG
 
+更新:[ringring](https://github.com/tulayang/ringring)模块现在重写了amarkdown编辑器的核心事件处理,如果需要编写自定义的markdown编辑器,可以使用[ringring](https://github.com/tulayang/ringring).
+
 [DEMO] // 已下线
 
 author: tulayang<br />
